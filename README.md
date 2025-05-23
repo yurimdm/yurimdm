@@ -1,6 +1,6 @@
-## Hi there 👋
+## Hello there 👋
 
-[View Site Demo](https://yuri-dev.neocities.org/index.html)
+My name is Yuri. I am studying Software Development at 42 Abu Dhabi and Information Technology at BYU Pathway.
 
 <!--
 **yurimdm/yurimdm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
