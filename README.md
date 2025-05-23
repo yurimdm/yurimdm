@@ -1,6 +1,7 @@
-<h1>Hi there 👋<h1>
+## Hi there 👋
 
-<p>Welcome to my github page!!</p>
+[View Site Demo](https://yuri-dev.neocities.org/index.html)
+
 <!--
 **yurimdm/yurimdm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
